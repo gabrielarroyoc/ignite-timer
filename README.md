@@ -102,20 +102,6 @@ The following tools were used in the construction of the project:
 - **[React Hook Form](https://react-hook-form.com/)**
 
 ---
-## Author
-
-<a href="https://www.facebook.com/bruno.fukumori.9/">
- <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/82473580?v=4" width="100px;" alt="Bruno Fukumori"/>
- <br />
-  
- <sub><b>Bruno Fukumori</b></sub></a> <a href="https://www.facebook.com/bruno.fukumori.9/" title="facebook"></a>
- <br />
-
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/hi_fukujp)](https://twitter.com/hi_fukujp) [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bfukumori/)](https://www.linkedin.com/in/bfukumori/) 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brunofukumori@gmail.com)](mailto:brunofukumori@gmail.com)
-
----
-
 ## License
 
 This project is under the license [MIT](./LICENSE).
